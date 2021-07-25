@@ -79,7 +79,7 @@ namo = 'MrG{108P}*'
 cr = "~*SUBSCRIBE:MrG{108P}🍁~OWNER:Arnando🍁*"
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6281534162316@s.whatsapp.net"] //NOMOR LUH
+const ownerNumber = ["628811929177@s.whatsapp.net"] //NOMOR LUH
 const premium = ["6281534162316@s.whatsapp.net","6282254187237@s.whatsapp.net","62814622392081@s.whatsapp.net","6281227825649@s.whatsapp.net","62881024843786@s.whatsapp.net","6285850763057@s.whatsapp.net","6285869225011@s.whatsapp.net","6285656214208@s.whatsapp.net"]
 /************************************/
 
