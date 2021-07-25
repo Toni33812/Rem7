@@ -62,13 +62,13 @@ const vcard = 'BEGIN:VCARD\n'//JANGAN DI GANTI ANJING
             + 'VERSION:3.0\n'//JANGAN DI GANTI ANJING,NTAR EROR
             + 'FN:Mr.108P\n' // GANTI NAMA LU BODOH
             + 'ORG: REMBOT;\n'//GANTI NAMA BOT LUH BANGSAT
-            + 'TEL;type=CELL;type=VOICE;waid=6281534162316:+62 815-3416-2316\n' // GANTI NOMOR LU BEGONIAN
+            + 'TEL;type=CELL;type=VOICE;waid=628811929177:+62 881-1929-177\n' // GANTI NOMOR LU BEGONIAN
             + 'END:VCARD'
 //MR108P\\
 prefix = "#"
 blocked = []   
-limitawal = 1200
-memberlimit = 2
+limitawal = 120
+memberlimit = 0
 name = "MR.108P"
 rdaftar = "Subscribe Mr.108P"
 rmenu = "Subscribe Mr.108P"
@@ -79,8 +79,8 @@ namo = 'MrG{108P}*'
 cr = "~*SUBSCRIBE:MrG{108P}🍁~OWNER:Arnando🍁*"
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6281534162316@s.whatsapp.net"] //NOMOR LUH
-const premium = ["6281534162316@s.whatsapp.net","6282254187237@s.whatsapp.net","62814622392081@s.whatsapp.net","6281227825649@s.whatsapp.net","62881024843786@s.whatsapp.net","6285850763057@s.whatsapp.net","6285869225011@s.whatsapp.net","6285656214208@s.whatsapp.net"]
+const ownerNumber = ["628811929177@s.whatsapp.net"] //NOMOR LUH
+const premium = ["628811929177@s.whatsapp.net","6282254187237@s.whatsapp.net","62814622392081@s.whatsapp.net","6281227825649@s.whatsapp.net","62881024843786@s.whatsapp.net","6285850763057@s.whatsapp.net","6285869225011@s.whatsapp.net","6285656214208@s.whatsapp.net"]
 /************************************/
 
 // LOAD JSON
